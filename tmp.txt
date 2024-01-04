@@ -1,0 +1,15 @@
+A seasoned veteran with over a decade of experience in operations and maintenance, 
+I am passionate about continuous learning and dedicated to in-depth exploration. 
+I firmly believe in the evolution of operations, progressing from standardization to scripting, automation, and ultimately scaling. 
+Recognizing the criticality of operational security, 
+I consistently expand the breadth of my expertise while delving into the depths of specific technologies.
+My journey spans from monitoring server metrics at the system level to log monitoring at the business layer, 
+and further to high-level application chain monitoring(including observability platforms). 
+I have navigated through virtualization, containerization, Kubernetes, and cloud adoption. Additionally, 
+I am well-versed in Continuous Integration and Continuous Deployment (CICD), ensuring seamless and secure facilitation of rapid system updates and iterations. 
+I look forward to the opportunity to collaborate with your esteemed company.
+
+十余年运维老兵，热爱学习，热衷专研，笃信运维从标准化，到脚本化，再到自动化，继而规模化。
+深知运维安全的重要性，既不停扩展运维领域的广度，也不断深耕特定技术的深度；
+从系统的服务器指标监控，到业务层的日志监控，再到更高层次的应用链路监控（可观测性平台），从虚拟化，到容器化，再到k8s，或者上云的选型；
+当然还有持续集成持续发布（CICD），为系统的快速更新迭代保驾护航。期待与贵司的合作。
