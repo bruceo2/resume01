@@ -11,19 +11,19 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Bruce"
-resume_title:                   "运维工程师"
+resume_title:                   "运维工程师|DevOps Engineer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "zhengma0211@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "18779999999"
+resume_contact_address:         "87 WanNian"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     "87 WanNian • 18779999999 • zhengma0211@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>十余年运维老兵，热爱学习，热衷专研，笃信运维从标准化，到脚本化，再到自动化，继而规模化。深知运维安全的重要性，既不停扩展运维领域的广度，也不断深耕特定技术的深度；从系统的服务器指标监控，到业务层的日志监控，再到更高层次的应用链路监控（可观测性平台），从虚拟化，到容器化，再到k8s，或者上云的选型；当然还有持续集成持续发布（CICD），为系统的快速更新迭代保驾护航。期待与贵司的合作。翻译成英文</p><p>A seasoned veteran with over a decade of experience in operations and maintenance, I am passionate about continuous learning and dedicated to in-depth exploration. I firmly believe in the evolution of operations, progressing from standardization to scripting, automation, and ultimately scaling. Recognizing the criticality of operational security, I consistently expand the breadth of my expertise while delving into the depths of specific technologies.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
